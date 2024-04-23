@@ -23,7 +23,7 @@ MySQL (or any other database management system)
 
 Installation
 
-Clone the repository: git clone https://github.com/yourusername/classroom-reservation-system.git
+Clone the repository: git clone https://github.com/DurgaPrasadPallapu328/classroom-reservation-system.git
 Navigate to the project directory: cd classroom-reservation-system
 Set up the database and update the configuration file with your database credentials.
 Start a local development server (e.g., Apache or PHP's built-in server).
