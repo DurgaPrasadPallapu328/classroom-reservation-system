@@ -1,0 +1,11 @@
+runtime: php74
+
+handlers:
+- url: /assets
+  static_dir: assets
+
+- url: /.*
+  script: auto
+
+env_variables:
+  APP_ENV: production
